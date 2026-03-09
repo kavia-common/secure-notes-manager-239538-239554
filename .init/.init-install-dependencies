@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/secure-notes-manager-239538-239554/notes_frontend"
+}
